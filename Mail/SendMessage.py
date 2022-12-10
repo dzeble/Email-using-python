@@ -34,7 +34,8 @@ War it is'nt good for absolutely nothing
         host = "localhost",
         user = "root",
         password = "",  #mysql password goes here
-        database = 'svenschema'#your selected database)
+        database = 'svenschema'#your selected database
+        )
 
     mycursor = mydb.cursor()
 
